@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.navbar {
+  background-color: lightblue !important; /* custom background */
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+.navbar-brand img {
+  border-radius: 50%;
+}
